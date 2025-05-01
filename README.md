@@ -1,2 +1,2 @@
-# Avinashtiwari_CSE_AIML_B_
+# Avinashtiwari_CSE_AIML_B_ConnectSphere
 this is a social platform 
